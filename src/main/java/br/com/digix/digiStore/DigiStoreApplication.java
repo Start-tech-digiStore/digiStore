@@ -1,4 +1,4 @@
-package br.com.digistore.digiStore;
+package br.com.digix.digiStore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
